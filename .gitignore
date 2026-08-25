@@ -1,0 +1,8 @@
+# IDE
+.idea/
+
+# AI cache
+.codex-go-cache/
+
+# Go build output
+*.exe
